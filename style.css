@@ -32,7 +32,7 @@ body, html {
   position: absolute;
   top: 40%;
   width: 100%;
-  text-align: center;
+  text-align: left;
 }
 
 .border {
@@ -48,7 +48,7 @@ h3 {
   text-transform: uppercase;
   font: 20px "Lato", sans-serif;
   color: white;
-  text-align:center
+  text-align:left
 }
 
 .textSection {
