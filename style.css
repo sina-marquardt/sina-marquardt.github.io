@@ -5,7 +5,7 @@ body, html {
   color: White;
 }
 
-.chestnut, .mouse {
+.chestnut {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body, html {
 }
 
 .chestnut {
-  background-image: url(" imm001_4A.jpg");
+  background-image: url("https://user-images.githubusercontent.com/59932098/103478871-e8892780-4dc9-11eb-9030-4d3dfc3c3b4a.jpg");
   min-height: 100%;
   background-size: auto;
 }
@@ -48,8 +48,4 @@ h3 {
 .textSection {
   background-color: slategrey;
   padding:50px 80px;
-}
-
-.mouse {
-  background-image: url("imm032_32A.jpg");
 }
