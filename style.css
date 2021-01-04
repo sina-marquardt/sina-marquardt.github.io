@@ -59,3 +59,10 @@ h3 {
 .author-social {
   background-color: slategrey;
 }
+
+/* Turn off parallax scrolling for tablets and phones as it is not supported */
+@media only screen and (max-device-width: 1024px) {
+    .chestnut, .garden {
+        background-attachment: scroll;
+    }
+}
