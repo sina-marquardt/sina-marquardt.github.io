@@ -76,7 +76,7 @@ h3 {
   letter-spacing: 10px;
 }
 
-.icon:hover{fill:indigo !important}
+.link>.icon:hover{fill:indigo !important}.
 
 .author-social {
   background-color: slategrey;
