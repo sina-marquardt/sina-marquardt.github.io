@@ -11,7 +11,7 @@ body, html {
   background-repeat: no-repeat;
   background-color: grey;
   background-size: cover;
-  min-height: 50%;
+  min-height: auto;
   background-attachment: fixed;
 }
 
@@ -22,8 +22,8 @@ body, html {
 
 .endoagar {
   background-image: url("https://user-images.githubusercontent.com/59932098/104091534-3eecdf00-527e-11eb-9a14-18180ac91dec.PNG");
-  min-height: 100%;
-  background-size: auto;
+  min-height: auto;
+  background-size: 100%;
 }
 
 .caption {
