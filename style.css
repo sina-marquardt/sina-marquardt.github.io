@@ -11,7 +11,7 @@ body, html {
   background-repeat: no-repeat;
   background-color: grey;
   background-size: cover;
-  min-height: auto;
+  min-height: 50%;
   background-attachment: fixed;
 }
 
