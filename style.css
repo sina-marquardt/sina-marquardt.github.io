@@ -25,14 +25,14 @@ body, html {
   background-size: 100% auto;
 }
 
-.title {
+.caption {
   position: absolute;
   top: 40%;
   width: 100%;
   text-align: left;
 }
 
-.subtitle {
+.border {
   background-color: slategrey;
   color: White;
   padding: 12px;
