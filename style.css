@@ -18,8 +18,8 @@ body, html {
 
 .hplc {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/61/Inlet_valve_on_the_HPLC.jpg");
-  min-height: 50%;
-  background-size: auto;
+  min-height: 100%;
+  background-size: 50%;
 }
 
 .chestnut {
