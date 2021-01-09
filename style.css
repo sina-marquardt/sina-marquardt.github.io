@@ -15,6 +15,11 @@ body, html {
   background-attachment: fixed;
 }
 
+.hplc_room {
+  background-image: url("https://github.com/sina-marquardt/sina-marquardt.github.io/issues/8#issue-782664282");
+  background-size: 100% auto;
+}
+
 .hplc {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/61/Inlet_valve_on_the_HPLC.jpg");
   background-size: 100% auto;
