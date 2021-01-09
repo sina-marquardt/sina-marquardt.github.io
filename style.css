@@ -68,6 +68,14 @@ h3 {
   padding:50px 80px;
 }
 
+.link {
+  background-color: slategrey;
+  color: White;
+  padding: 12px;
+  font-size: 20px;
+  letter-spacing: 10px;
+}
+
 .author-social {
   background-color: slategrey;
 }
