@@ -27,7 +27,14 @@ body, html {
 
 .caption {
   position: absolute;
-  top: 40%;
+  top: 20%;
+  width: 100%;
+  text-align: left;
+}
+
+.caption_subtitle {
+  position: absolute;
+  top: 60%;
   width: 100%;
   text-align: left;
 }
