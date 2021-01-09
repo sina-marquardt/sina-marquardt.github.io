@@ -5,7 +5,7 @@ body, html {
   color: White;
 }
 
-.chestnut, .garden, .hplc {
+.hplc, .endoagar {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -20,14 +20,8 @@ body, html {
   background-size: 100% auto;
 }
 
-.chestnut {
-  background-image: url("https://user-images.githubusercontent.com/59932098/103478992-9d234900-4dca-11eb-80b7-4401d54f520d.jpg");
-  min-height: 100%;
-  background-size: auto;
-}
-
-.garden {
-  background-image: url("https://user-images.githubusercontent.com/59932098/103478871-e8892780-4dc9-11eb-9030-4d3dfc3c3b4a.jpg");
+.endoagar {
+  background-image: url("https://github.com/sina-marquardt/sina-marquardt.github.io/issues/3#issue-782597640");
   min-height: 100%;
   background-size: auto;
 }
