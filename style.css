@@ -17,22 +17,17 @@ body, html {
 
 .hplc_room {
   background-image: url("https://user-images.githubusercontent.com/59932098/104106123-8b064680-52b3-11eb-9b89-44daa209cb20.jpg");
-  background-size: 100% auto;
+  background-size: 100%;
 }
 
 .hplc {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/61/Inlet_valve_on_the_HPLC.jpg");
-  background-size: 100% auto;
-}
-
-.endoagar {
-  background-image: url("https://user-images.githubusercontent.com/59932098/104091534-3eecdf00-527e-11eb-9a14-18180ac91dec.PNG");
-  background-size: 100% auto;
+  background-size: 100%;
 }
 
 .caption {
   position: absolute;
-  top: 4.5cm;
+  top: 40%;
   width: 100%;
   text-align: left;
 }
