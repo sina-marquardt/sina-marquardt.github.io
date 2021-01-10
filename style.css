@@ -94,13 +94,13 @@ td {
 
 /* Internal hyperlinks */
 a {
-  color: #2c87f0;
+  color: blue;
 }
 a:visited {
-  color: #636;
+  color: purple;
 }
 a:hover, a:active, a:focus {
-  color:#c33;
+  color:black;
 }
 
 
