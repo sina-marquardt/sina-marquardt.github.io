@@ -6,7 +6,7 @@ body, html {
 }
 
 /* Background Pictures */
-.hplc_room, .hplc, .endoagar {
+.hplc_room, .hplc, .endoagar, .phytochamber {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,6 +23,11 @@ body, html {
 
 .hplc {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/61/Inlet_valve_on_the_HPLC.jpg");
+  background-size: 100%;
+}
+
+.phytochamber {
+  background-image: url("https://user-images.githubusercontent.com/59932098/104106102-66aa6a00-52b3-11eb-8944-983d4053546d.jpg");
   background-size: 100%;
 }
 
