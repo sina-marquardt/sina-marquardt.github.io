@@ -5,6 +5,7 @@ body, html {
   color: White;
 }
 
+/* Background Pictures */
 .hplc_room, .hplc, .endoagar {
   position: relative;
   background-position: center;
@@ -48,11 +49,35 @@ h3 {
   text-align: left
 }
 
+/* Text */
 .textSection {
   background-color: slategrey;
   padding:50px 80px;
 }
 
+
+/* Table */
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+
+
+/* Social media links */
 .link {
   background-color: slategrey;
   color: White;
@@ -64,6 +89,8 @@ h3 {
 .author-social {
   background-color: slategrey;
 }
+
+
 
 /* Turn off parallax scrolling for tablets and phones as it is not supported */
 @media only screen and (max-device-width: 1024px) {
