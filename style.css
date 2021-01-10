@@ -62,7 +62,7 @@ table, th, td {
   border-collapse: collapse;
 }
 tr {
-  background-color: LightGrey;
+  background-color: slategrey;
 }
 th, td {
   vertical-align: top;
