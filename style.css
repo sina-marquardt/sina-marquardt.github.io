@@ -33,6 +33,13 @@ body, html {
   text-align: left;
 }
 
+.caption_subtitle {
+  position: absolute;
+  top: 70%;
+  width: 100%;
+  text-align: left;
+}
+
 .border {
   background-color: slategrey;
   color: White;
