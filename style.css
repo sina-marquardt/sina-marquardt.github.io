@@ -72,6 +72,13 @@ h3 {
 h4 {
   letter-spacing: 5px;
   text-transform: uppercase;
+  font: 16px "Helvetica", sans-serif;
+  color: white;
+  text-align: left;
+}
+
+h5 {  letter-spacing: 5px;
+  text-transform: uppercase;
   font: 14px "Helvetica", sans-serif;
   color: white;
   text-align: left;
@@ -142,4 +149,3 @@ a:hover, a:active, a:focus {
         background-attachment: scroll;
     }
 }
-
