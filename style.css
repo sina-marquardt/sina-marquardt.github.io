@@ -78,8 +78,10 @@ h3 {
 
 /* Table */
 table, th, td {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
   border: 1px solid HoneyDew;
-  border-collapse: collapse;
 }
 tr {
   background-color: slategrey;
