@@ -6,7 +6,7 @@ body, html {
 }
 
 /* Background Pictures */
-.hplc_room, .hplc, .endoagar, .phytochamber, .desk, .uniklinik {
+.hplc_room, .hplc, .endoagar, .phytochamber, .desk, .uniklinik, .chestnut {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -34,6 +34,11 @@ body, html {
 .desk {
   background-image: url("https://user-images.githubusercontent.com/59932098/104436864-65688e00-558e-11eb-90e1-c8d17368a3c6.jpg");
   background-size: 100%;
+}
+
+.chestnut {
+  background-image: url("https://user-images.githubusercontent.com/59932098/103478992-9d234900-4dca-11eb-80b7-4401d54f520d.jpg");
+  background-size: 100 %;
 }
 
 /*alternative picture: https://upload.wikimedia.org/wikipedia/commons/3/30/Uniklinik_RWTH_Aachen_-_panoramio_%282%29.jpg*/
