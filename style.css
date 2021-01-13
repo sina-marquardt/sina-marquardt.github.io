@@ -6,7 +6,7 @@ body, html {
 }
 
 /* Background Pictures */
-.hplc_room, .hplc, .endoagar, .phytochamber, .desk, .uniklinik, .chestnut {
+.hplc_room, .hplc, .endoagar, .phytochamber, .desk, .uniklinik, .chestnut, .raspberrypi {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -38,6 +38,11 @@ body, html {
 
 .chestnut {
   background-image: url("https://user-images.githubusercontent.com/59932098/103478992-9d234900-4dca-11eb-80b7-4401d54f520d.jpg");
+  background-size: 100 %;
+}
+
+.raspberrypi {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg");
   background-size: 100 %;
 }
 
