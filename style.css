@@ -121,11 +121,11 @@ td {
 
 /* Internal hyperlinks */
 a {
-  color: white;
+  color: #88b0d6;
   text-decoration: none;
 }
 a:visited {
-  color: white;
+  color: #88b0d6;
 }
 a:hover, a:active, a:focus {
   color: white;
