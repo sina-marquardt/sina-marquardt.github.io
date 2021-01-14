@@ -31,7 +31,7 @@ nav ul li a {
 
 
 /* Background Pictures */
-.hplc_room, .hplc, .endoagar, .phytochamber, .desk, .uniklinik, .chestnut, .raspberrypi {
+.hplc_room, .hplc, .endoagar, .phytochamber, .desk, .uniklinik, .chestnut, .raspberrypi, .garlic {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -75,6 +75,11 @@ nav ul li a {
 .uniklinik {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/1b/Uniklinik_der_RWTH_Aachen_-_panoramio.jpg");
   background-size: 100%;
+}
+
+.garlic {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/00/001-Garlic.jpg");
+  background-size: 100 %;
 }
 
 .caption {
