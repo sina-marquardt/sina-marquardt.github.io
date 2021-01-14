@@ -13,7 +13,8 @@ nav ul {
     border-style: solid;
     border-color: white;
     border-width: 1;
-    border-radius: 20px;
+    padding: 20px
+    border-radius: 12px;
 }
 
 nav ul li {
@@ -27,7 +28,7 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
-    fontsize: 16;
+    fontsize: 18;
     line-height: 150%;
 }
 
@@ -150,7 +151,6 @@ h5 {  letter-spacing: 5px;
 
 /* Table */
 table, th, td {
-  position:fixed;
   width:100%;
   border-collapse: separate;
   border-spacing: 1px;
