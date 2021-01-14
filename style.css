@@ -13,8 +13,8 @@ nav ul {
     border-style: solid;
     border-color: white;
     border-width: 1;
-    padding: 20px;
-    border-radius: 12px;
+    padding: 12px;
+    border-radius: 20px;
 }
 
 nav ul li {
