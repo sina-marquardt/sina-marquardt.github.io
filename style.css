@@ -11,16 +11,16 @@ nav ul {
     border-style: solid;
     border-color: white;
     border-width: 1;
-    padding: 3px;
-    border-radius: 3px;
+    padding: 10px;
+    border-radius: 20px;
 }
 
 nav ul li {
     color: #88b0d6;
     list-style-type: none;
     display: inline;
-    margin-right: 20px;
-    margin-left: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 nav ul li a {
