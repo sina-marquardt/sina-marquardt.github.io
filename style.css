@@ -150,9 +150,13 @@ h5 {  letter-spacing: 5px;
 
 /* Table */
 table, th, td {
+  position:fixed;
+  width:100%;
   border-collapse: separate;
   border-spacing: 1px;
   border: 1px solid White;
+  box-sizing:border-box; /* causes item size to include border and padding */
+  -moz-box-sizing:border-box; /*for browser compatibility*/
 }
 tr {
   background-color: #0b55aa;
