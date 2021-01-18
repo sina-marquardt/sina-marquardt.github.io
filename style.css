@@ -202,6 +202,15 @@ a:hover, a:active, a:focus {
 }
 
 
+.footer-main{
+  text-align: left;
+  padding: 3px;
+  background-color: #0b55aa;
+  color: lightgrey;
+  border-top:1px solid;
+  font-size:12px;
+}
+
 
 /* Turn off parallax scrolling for tablets and phones as it is not supported */
 @media only screen and (max-device-width: 1024px) {
