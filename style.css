@@ -34,7 +34,7 @@ nav ul li a {
 
 
 /* Background Pictures */
-.hplc_room, .hplc, .endoagar, .phytochamber, .visitor, .aspergillus, .chestnut, .raspberrypi, .trolox {
+.hplc_room, .desk .hplc, .endoagar, .phytochamber, .visitor, .aspergillus, .chestnut, .raspberrypi, .trolox {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,6 +46,11 @@ nav ul li a {
 
 .hplc_room {
   background-image: url("https://user-images.githubusercontent.com/59932098/104106123-8b064680-52b3-11eb-9b89-44daa209cb20.jpg");
+  background-size: 100%;
+}
+
+.desk {
+  background-image: url("");
   background-size: 100%;
 }
 
