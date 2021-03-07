@@ -34,7 +34,7 @@ nav ul li a {
 
 
 /* Background Pictures */
-.hplc_room, .desk .hplc, .endoagar, .phytochamber, .visitor, .aspergillus, .chestnut, .raspberrypi, .trolox {
+.hplc_room, .desk, .hplc, .endoagar, .phytochamber, .visitor, .aspergillus, .chestnut, .raspberrypi, .trolox {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
