@@ -14,25 +14,8 @@
   </div>
   
   <div class="textSection">
-    <header>
-      <nav>
-	<ul>
-          <li><a style="color: white" href="index.html">Start</a></li>
-          <li><a style="color: white" href="#aboutme">About Me</a></li>
-          <li><a style="color: white" href="#contact">Contact</a></li>
-          <li><a style="color: white" href="#profexp">Professional Experience</a></li>
-          <li><a style="color: white" href="#techskills">Technical Skills</a></li>
-          <li><a style="color: white" href="#scemployee">Scientific Employee</a></li>
-          <li><a style="color: white" href="#master">Master Thesis</a></li>
-          <li><a style="color: white" href="#bachelor">Bachelor Thesis</a></li>
-          <li><a style="color: white" href="#internship">Research Internchip</a></li>
-          <li><a style="color: white" href="#studies">Studies</a></li>
-          <li><a style="color: white" href="#interests">Interests</a></li>
-        </ul>
-      </nav>  
-    </header>
-	  
-    <p></p><br>
+            <div style="text-align:right;padding:0% 0% 0% 0%"><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span></div>
+		<!-- &#9776 is the unicode for the 3 lines -->
 	
     <h3><a style="text-decoration: none; color: white" id="aboutme">About Me</a></h3>
 	  <p>I am a biologist (M. Sc.) interested in data management and data analysis. I have two years of work experierence in biochemistry as a scientific employee.
@@ -484,5 +467,32 @@
   </div>
 
 <footer class="footer-main">Sina Marquardt © 2021</footer>
+	
+	
+<!-- navigation menu -->
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="index.html">Start</a>
+  <a href="#contact">Contact</a>
+  <a href="#profexp">Professional Experience</a>
+  <a href="#techskills">Technical Skills</a>
+  <a href="#gmp">Quality Management</a>
+  <a href="#scemployee">Scientific Employee</a>
+  <a href="#master">Master Thesis</a>
+  <a href="#bachelor">Bachelor Thesis</a>
+  <a href="#internship">Research Internship</a>
+  <a href="#studies">Studies</a>
+  <a href="#interests">Interests</a>
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "350px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
     
 </html>
